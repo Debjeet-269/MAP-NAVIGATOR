@@ -1,4 +1,4 @@
-# BHUBANESWAR MAP
+# MAP NAVIGATOR
 
 This is a simple Java program that will take information (name) of the source vertex and the destination vertex, of Bhubaneswar, from the user and display the fare and shortest distance to reach the destination. 
 
